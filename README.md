@@ -1,4 +1,4 @@
-👋 Hi, I’m Chethana Wijesinghe, a Computing and Information Systems undergraduate at Sabaragamuwa University of Sri Lanka.👀 I’m interested in new technologies and frameworks,and java,spring boot, C, Rect.js.
+👋 Hi, I’m Chethana Wijesinghe, a Computing and Information Systems undergraduate at Sabaragamuwa University of Sri Lanka.👀 I’m interested in new technologies and frameworks,and Java,Spring Boot, C, React.js.
 
   
 
