@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with expertise in creating web application
 
 
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 
  🌱 I’m currently exploring advanced backend architectures and enhancing my frontend design skills.
  👯 I’m open to collaborating on projects involving web development, mobile applications, and innovative software solutions.
@@ -13,38 +13,38 @@ I'm a passionate full-stack developer with expertise in creating web application
  ✍️ I enjoy writing about emerging technologies and software development trends.
 
 
-🔧 Skills & Tools
-Frontend:
+<h2>🔧 Skills & Tools</h2>
+<h3>Frontend:</h3>
 React,Angular, Redux, HTML5, CSS3, JavaScript
 
-Backend: 
+<h3>Backend: </h3>
 Node.js, Express.js, Spring Boot
 
-Databases: 
+<h3>Databases: </h3>
 Firebase, MongoDB, MySQLL
 
-Other Tools: 
+<h3>Other Tools:</h3> 
 Postman, Git, Firebase, RESTful APIs
 
-Mobile Development: 
+<h3>Mobile Development:</h3> 
 Reach Native
 
-Project Management:
+<h3>Project Management:</h3>
 Agile, Scrum
 
-💻 Current Projects
-
+<h2>💻 Current Projects</h2>
 Hotel Booking App: A full-stack application for booking hotel rooms, integrated with secure payment gateways.
 MedixMart Pharmacy Website: An online platform to enhance visibility and enable customers to order medications conveniently.
 Vehicle Maintenance App: A React Native mobile app connecting vehicle owners with mechanics and spare parts sellers.
 
 
 
-🌍 Let's Connect!
+
+<h2>🌍 Let's Connect!</h2>
 
 LinkedIn: https://www.linkedin.com/in/chethana-wijesinghe/
 
-Feel free to connect, collaborate, and create amazing projects together!
+<h3>Feel free to connect, collaborate, and create amazing projects together!</h3>
 
 
 
