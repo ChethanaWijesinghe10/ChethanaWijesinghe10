@@ -6,11 +6,11 @@ I'm a passionate full-stack developer with expertise in creating web application
 
 <h2>🚀 About Me</h2>
 
- 🌱 I’m currently exploring advanced backend architectures and enhancing my frontend design skills.
- 👯 I’m open to collaborating on projects involving web development, mobile applications, and innovative software solutions.
- 💬 Ask me about full-stack development, React, Spring Boot, or Agile methodologies.
- 💡 I’m driven by a passion for building systems that make a tangible impact.
- ✍️ I enjoy writing about emerging technologies and software development trends.
+ <p>🌱 I’m currently exploring advanced backend architectures and enhancing my frontend design skills. </p>
+ <p>👯 I’m open to collaborating on projects involving web development, mobile applications, and innovative software solutions.</p>
+ <p>💬 Ask me about full-stack development, React, Spring Boot, or Agile methodologies.</p>
+ <p>💡 I’m driven by a passion for building systems that make a tangible impact.</p>
+ <p>✍️ I enjoy writing about emerging technologies and software development trends.</p>
 
 
 <h2>🔧 Skills & Tools</h2>
