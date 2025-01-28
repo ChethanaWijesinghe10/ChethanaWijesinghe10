@@ -33,9 +33,9 @@ Reach Native
 Agile, Scrum
 
 <h2>💻 Current Projects</h2>
-Hotel Booking App: A full-stack application for booking hotel rooms, integrated with secure payment gateways.
-MedixMart Pharmacy Website: An online platform to enhance visibility and enable customers to order medications conveniently.
-Vehicle Maintenance App: A React Native mobile app connecting vehicle owners with mechanics and spare parts sellers.
+<h7>Hotel Booking App: A full-stack application for booking hotel rooms, integrated with secure payment gateways.</h7>
+<h7>MedixMart Pharmacy Website: An online platform to enhance visibility and enable customers to order medications conveniently.</h7>
+<h7>Vehicle Maintenance App: A React Native mobile app connecting vehicle owners with mechanics and spare parts sellers.</h7>
 
 
 
