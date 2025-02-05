@@ -15,6 +15,7 @@ I'm a passionate full-stack developer with expertise in creating web application
 
 <h2>🔧 Skills & Tools</h2>
 <h3>Frontend:</h3>
+
 React,Angular, Redux, HTML5, CSS3, JavaScript
 
 <h3>Backend: </h3>
@@ -52,6 +53,22 @@ Agile, Scrum
 ![icons8-angular-96](https://github.com/user-attachments/assets/41728ddf-36a4-4b31-bf08-3b687efcce63)
 ![swagger](https://github.com/user-attachments/assets/863c5587-5a33-4ee8-a1c4-17b4fc9c674d)
 ![icons8-figma-96](https://github.com/user-attachments/assets/7606f372-4916-47bd-8b32-59de91241ea6)
+![icons8-vs-code-96](https://github.com/user-attachments/assets/5d2dcf38-1410-4fed-bd7a-288f4e564c61)
+![icons8-intellij-idea-48](https://github.com/user-attachments/assets/2cd19fdf-d4ea-4c09-9931-99744c931969)
+![image](https://github.com/user-attachments/assets/5df9668b-71ec-4c3f-ba99-c4262a1cc6f1)
+![image](https://github.com/user-attachments/assets/a4bcb6b6-aa15-428b-873c-b758c795d8e9)
+![image](https://github.com/user-attachments/assets/07aff7f4-cdf5-4942-a2ac-994d7361445d)
+![image](https://github.com/user-attachments/assets/3cbe5e0d-50a0-4fbc-9c63-0b02f8cd3b74)
+![image](https://github.com/user-attachments/assets/e84012b5-f1cd-4e59-8d75-a73cc61d34d6)
+![image](https://github.com/user-attachments/assets/c5620d17-bd67-48a7-a89c-7ad8f664f4d1)
+![image](https://github.com/user-attachments/assets/c96c85d8-a5dd-42db-97cf-08baa5dcee4f)
+![image](https://github.com/user-attachments/assets/893aa821-d628-431a-9c24-f66a62aff9bd)
+![image](https://github.com/user-attachments/assets/1ceb69e6-aa53-483b-a5d3-081bbb5158e4)
+![image](https://github.com/user-attachments/assets/c90ccdbf-7b2e-4ec9-8be9-5451885e25db)
+![image](https://github.com/user-attachments/assets/ce5f2a81-7a33-44a7-ac88-79f146b96012)
+![image](https://github.com/user-attachments/assets/e3d9dfe6-324a-42ce-a072-447f2e801c2b)
+
+
 
 
 
