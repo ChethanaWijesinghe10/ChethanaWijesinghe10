@@ -47,6 +47,7 @@ Agile, Scrum
 <p>Feel free to connect, collaborate, and create amazing projects together!</p>
 
 
+![image](https://github.com/user-attachments/assets/f6b28896-71e4-4086-a55f-0e9a58873c0b)
 
 
 
