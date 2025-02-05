@@ -22,7 +22,7 @@ React,Angular, Redux, HTML5, CSS3, JavaScript
 Node.js, Express.js, Spring Boot
 
 <h3>Databases: </h3>
-Firebase, MongoDB, MySQLL
+Firebase, MongoDB, MySQL
 
 <h3>Other Tools:</h3> 
 Postman, Git, Firebase, RESTful APIs
