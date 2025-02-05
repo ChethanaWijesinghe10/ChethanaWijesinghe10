@@ -46,8 +46,18 @@ Agile, Scrum
 
 <p>Feel free to connect, collaborate, and create amazing projects together!</p>
 
+![icons8-spring-boot-72](https://github.com/user-attachments/assets/37920f23-bb9d-4949-8927-73f95b1e32f4)
+![icons8-react-90](https://github.com/user-attachments/assets/1030eb82-0c59-4788-aef3-cf48613f9cdf)
+![icons8-mysql-100](https://github.com/user-attachments/assets/b5247651-901d-4812-8350-9f4a7634b883)
+![icons8-angular-96](https://github.com/user-attachments/assets/41728ddf-36a4-4b31-bf08-3b687efcce63)
+![swagger](https://github.com/user-attachments/assets/863c5587-5a33-4ee8-a1c4-17b4fc9c674d)
+![icons8-figma-96](https://github.com/user-attachments/assets/7606f372-4916-47bd-8b32-59de91241ea6)
 
-![image](https://github.com/user-attachments/assets/f6b28896-71e4-4086-a55f-0e9a58873c0b)
+
+
+
+
+
 
 
 
