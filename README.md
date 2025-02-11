@@ -45,6 +45,11 @@ Agile, Scrum
 
 <p>LinkedIn: https://www.linkedin.com/in/chethana-wijesinghe/</p>
 
+<div>
+ <p>Email:</p> 
+ <a href="chethanawijesinghe10@gmail.com"/>
+ <p>chethanawijesinghe10@gmail.com</p>
+  </div>
 <p>Feel free to connect, collaborate, and create amazing projects together!</p>
 
 ![icons8-spring-boot-72](https://github.com/user-attachments/assets/37920f23-bb9d-4949-8927-73f95b1e32f4)
