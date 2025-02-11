@@ -37,8 +37,8 @@ Agile, Scrum
 <li>Hotel Booking App: A full-stack application for booking hotel rooms, integrated with secure payment gateways.</li>
 <li>MedixMart Pharmacy Website: An online platform to enhance visibility and enable customers to order medications conveniently.</li>
 <li>Vehicle Maintenance App: A React Native mobile app connecting vehicle owners with mechanics and spare parts sellers.</li>
-
-
+<li>Point of Sales Application</li>
+<li>Big Burger: A website for a burger shop</li>
 
 
 <h2>🌍 Let's Connect!</h2>
