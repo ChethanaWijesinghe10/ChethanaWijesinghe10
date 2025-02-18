@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with expertise in creating web application
 React,Angular, Redux, HTML5, CSS3, JavaScript
 
 <h3>Backend: </h3>
-Node.js, Express.js, Spring Boot
+Node.js, Express.js, Spring Boot, Laravel
 
 <h3>Databases: </h3>
 Firebase, MongoDB, MySQL
